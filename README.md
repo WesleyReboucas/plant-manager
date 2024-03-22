@@ -17,6 +17,7 @@
   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#goals">Goals</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#page_with_curl-license">License</a>
 </p>
 
@@ -25,13 +26,6 @@
 Plant Manager is an application under development, initially conceived by <a href="https://www.rocketseat.com.br/"> **Rocketseat** </a> to facilitate plant management in home environments. Using <a href="https://reactnative.dev/"> **React Native** </a> technology, the primary goal is to create a platform that allows users to catalog their plants while also providing functionality for scheduling reminders to water them.
  
 The next step is to expand the application's functionality in future phases, including replication in <a href="https://www.apple.com/br/swift/"> **Swift (IOS)** </a>, so that I can demonstrate proficiency in the respective languages and highlighting versatility in different development environments.
-
-#### v1.0:
-- [ ] Create UI
-- [ ] Plant listing;
-- [ ] Plant CRUD operations;
-- [ ] Alert reception: Alerts for watering;
-- [ ] Authentication with name: Use the name to access plants per profile.
 
 ## Layout
 
@@ -54,6 +48,14 @@ The next step is to expand the application's functionality in future phases, inc
 - [Gesture Handler](https://docs.expo.dev/versions/latest/sdk/gesture-handler/)
 - [Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
 
+## Goals
+
+#### v1.0:
+- [ ] Create UI
+- [ ] Plant listing;
+- [ ] Plant CRUD operations;
+- [ ] Alert reception: Alerts for watering;
+- [ ] Authentication with name: Use the name to access plants per profile.
   
 ## Installation
 
